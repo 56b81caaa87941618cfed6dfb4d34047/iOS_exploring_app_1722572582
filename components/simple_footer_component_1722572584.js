@@ -2,13 +2,13 @@
 */
 Vue.component("simple_footer_component_1722572584", {
     template: `
-    <footer id="footer-section" style="min-height: 310px" class="flex-1 bg-gradient-to-br from-pink-400 via-purple-500 to-black backdrop-filter backdrop-blur-lg bg-opacity-30">
+    <footer id="footer-section" style="min-height: 350px"  class="flex-1 bg-gradient-to-br from-pink-400 via-purple-500 to-black backdrop-filter backdrop-blur-lg bg-opacity-30">
             <div id="footer-container" class="max-w-screen-xl p-8 py-12 mx-auto lg:py-16 md:p-12 lg:p-16 rounded-3xl shadow-lg bg-white bg-opacity-10 backdrop-filter backdrop-blur-md">
                 <hr id="footer-divider" class="my-8 border-purple-300 sm:mx-auto lg:my-10 opacity-30">
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-white">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10 filter drop-shadow-lg" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/tmpdhj5cw1d/logo.svg" class="h-8 mr-4 sm:h-10 filter drop-shadow-lg" alt="Landwind Logo" />
                             Iris Explorer: Unlock iOS
                         </a>
                     </div>
